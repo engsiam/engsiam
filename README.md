@@ -1,87 +1,64 @@
-<!-- 🔥 CLEAN BRANDED BANNER -->
+<!-- 🔥 PREMIUM HERO BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00e676&height=200&section=header&text=Shohrab%20Hossain&fontSize=44&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20SaaS%20Systems%20Builder&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00e676&height=220&section=header&text=Shohrab%20Hossain&fontSize=46&fontColor=ffffff&desc=SaaS%20Systems%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=65" />
 </p>
 
-<!-- 🔥 STRONG POSITIONING -->
-
-<h2 align="center">I build production-ready SaaS systems that solve real business problems and scale to thousands of users</h2>
-
-<p align="center"><b>Next.js | Node.js | MongoDB</b></p>
+<h1 align="center">🚀 Building scalable SaaS systems for real-world business use</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00e676&center=true&vCenter=true&width=600&lines=Production-Ready+Systems;Performance+%26+Scalability+Focused;SaaS+Architecture+Builder" />
+I design scalable SaaS systems for real users, real data, and real business workflows.
+</p>
+
+<p align="center"><b>Next.js • Node.js • MongoDB • System Design</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00e676&center=true&vCenter=true&width=600&lines=Production-Ready+SaaS+Systems;Scalable+Backend+Architecture;Real-World+System+Design" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I design and engineer **production-grade SaaS platforms and web applications**
-that are optimized for **performance, scalability, and real-world business use**.
+I engineer **production-grade SaaS platforms and full-stack applications**
+focused on **performance, scalability, and real-world business impact**.
 
-I focus on building systems that are not just functional — but **reliable, maintainable, and ready for scale**.
+- Built and deployed real-world systems  
+- Focused on clean architecture & maintainability  
+- Designed for scalability and long-term growth  
+- Solving real-world SaaS problems with production-ready solutions  
 
----
-
-## 🚀 What I'm Building
-
-* 🚀 SaaS Social Media Dashboard (analytics + scheduling)
-* 🌍 Tourism Platform (full-stack system)
-* ⚡ High-performance Next.js applications
-* 🐳 Docker-based scalable backend systems
-
-💡 I’m currently open to collaboration and freelance SaaS projects
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend (User Experience Layer)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" />
-</p>
-
-### ⚙️ Backend (System & API Layer)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### 🔧 DevOps & Tools (Deployment & Workflow)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,figma" />
-</p>
-
----
-
-## 🚀 Featured Work
+## 🚀 Featured Project
 
 ### 🔹 Offizonee — Workspace & Apartment Booking SaaS
 
-A production-ready SaaS platform for managing workspace and apartment rentals,
-featuring multi-role dashboards, real-time booking flow, and scalable backend architecture.
+A **production-ready SaaS platform** for managing workspace and apartment rentals,
+featuring multi-role dashboards and scalable backend architecture.
+
+#### 🔑 Key Features
 
 * 🏢 Host listing & management
-
 * 🔍 Smart search & booking system
-
 * 🛠️ Admin approval & control panel
-
 * 📊 Role-based dashboards (Admin • Host • User)
+* 📈 Designed to support scalable multi-user workflows and production deployment
 
-* ⚡ Tech Stack: Next.js, Node.js, MongoDB, Prisma
+
+
+#### ⚙️ Tech Stack
+
+Next.js • Node.js • MongoDB • Prisma
+
+#### 💡 Highlights
 
 * 🧠 Engineered for performance, scalability, and real-world usability
-
 * 🚀 Designed as a production-ready SaaS system architecture
+* 💼 Built for real-world rental businesses and workflows
 
-💼 Use Case: Built for real-world rental businesses to manage listings, bookings, and user roles efficiently
-
-* 🌐 Live: https://offizonee.vercel.app
+🌐 Live: https://offizonee.vercel.app
 
 📸 Preview:
 
@@ -89,19 +66,44 @@ featuring multi-role dashboards, real-time booking flow, and scalable backend ar
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engsiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engsiam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=engsiam&theme=tokyonight&hide_border=true" height="150"/>
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🔧 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,figma" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 📊 GitHub Insights
 
-<p align="center"><b>Let’s build something impactful together</b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engsiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engsiam&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=engsiam&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📬 Let’s Work Together
+
+<p align="center"><b>Available for freelance SaaS projects & collaborations</b></p>
 
 <p align="center">
   <a href="mailto:shohrab.hossain36@gmail.com">
@@ -117,16 +119,14 @@ featuring multi-role dashboards, real-time booking flow, and scalable backend ar
 
 ---
 
-## 🧠 Core Focus
+## 🎯 Core Focus
 
 * SaaS Product Development
 * Scalable Backend Architecture
 * Performance Optimization
-* Clean & Maintainable Code
+* Clean & Maintainable Systems
 
 ---
-
-<!-- 🔻 CLEAN FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e676,100:0f2027&height=100&section=footer"/>
