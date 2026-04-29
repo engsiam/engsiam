@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00e676&height=200&section=header&text=Md.%20Shohrab%20Hossain&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
-</div>
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,100:0f2027&height=200&section=header&text=Shohrab%20Hossain&fontSize=45&fontColor=ffffff" />
+</p>
+
+<p align="center">Full Stack Developer | MERN | SaaS Builder</p>
+
+---
 
 ## 👨‍💻 About Me
 I am a professional **MERN Stack Developer** at **Infinisoft** with over **4 years of experience** in building robust web and mobile applications. I specialize in creating scalable solutions using MongoDB, Express.js, React.js, and Node.js, along with mobile expertise in React Native and Flutter.
