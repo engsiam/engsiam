@@ -73,9 +73,9 @@ A scalable SaaS platform for managing workspace and apartment rentals with multi
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=engsiam&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=engsiam&theme=tokyonight&hide_border=true" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engsiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engsiam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
