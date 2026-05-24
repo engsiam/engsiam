@@ -109,7 +109,7 @@ Next.js • Node.js • MongoDB • Prisma
   <a href="mailto:shohrab.hossain36@gmail.com">
     <img src="https://img.shields.io/badge/Email-00e676?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-shohrab-hossain-dev/">
+  <a href="https://www.linkedin.com/in/md-shohrab-hossain-dev">
     <img src="https://img.shields.io/badge/LinkedIn-00e676?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://shohrab.vercel.app">
